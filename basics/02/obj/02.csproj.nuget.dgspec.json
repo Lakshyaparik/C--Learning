@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lakshy\\OneDrive\\Desktop\\C#-learn\\basics\\Syntax and Variable\\C#-learn.csproj": {}
+    "C:\\Users\\Lakshy\\OneDrive\\Desktop\\C#-learn\\basics\\02\\02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lakshy\\OneDrive\\Desktop\\C#-learn\\basics\\Syntax and Variable\\C#-learn.csproj": {
+    "C:\\Users\\Lakshy\\OneDrive\\Desktop\\C#-learn\\basics\\02\\02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lakshy\\OneDrive\\Desktop\\C#-learn\\basics\\Syntax and Variable\\C#-learn.csproj",
-        "projectName": "C#-learn",
-        "projectPath": "C:\\Users\\Lakshy\\OneDrive\\Desktop\\C#-learn\\basics\\Syntax and Variable\\C#-learn.csproj",
+        "projectUniqueName": "C:\\Users\\Lakshy\\OneDrive\\Desktop\\C#-learn\\basics\\02\\02.csproj",
+        "projectName": "02",
+        "projectPath": "C:\\Users\\Lakshy\\OneDrive\\Desktop\\C#-learn\\basics\\02\\02.csproj",
         "packagesPath": "C:\\Users\\Lakshy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lakshy\\OneDrive\\Desktop\\C#-learn\\basics\\Syntax and Variable\\obj\\",
+        "outputPath": "C:\\Users\\Lakshy\\OneDrive\\Desktop\\C#-learn\\basics\\02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lakshy\\AppData\\Roaming\\NuGet\\NuGet.Config"

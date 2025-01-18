@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "basics", "basics", "{6EA703D0-191A-D862-B1E6-67D1C8054AC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02", "basics\02\02.csproj", "{E1C0CC1F-FA93-6EC2-B6BF-54C1A1D255DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#-learn", "basics\Syntax and Variable\C#-learn.csproj", "{D1B08D61-0604-4273-60E7-553781124AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C0CC1F-FA93-6EC2-B6BF-54C1A1D255DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C0CC1F-FA93-6EC2-B6BF-54C1A1D255DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C0CC1F-FA93-6EC2-B6BF-54C1A1D255DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C0CC1F-FA93-6EC2-B6BF-54C1A1D255DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B08D61-0604-4273-60E7-553781124AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B08D61-0604-4273-60E7-553781124AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B08D61-0604-4273-60E7-553781124AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B08D61-0604-4273-60E7-553781124AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E1C0CC1F-FA93-6EC2-B6BF-54C1A1D255DA} = {6EA703D0-191A-D862-B1E6-67D1C8054AC9}
+		{D1B08D61-0604-4273-60E7-553781124AD3} = {6EA703D0-191A-D862-B1E6-67D1C8054AC9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3583575-F2D7-4F58-A1E1-377F2370F634}
+	EndGlobalSection
+EndGlobal
